@@ -10,3 +10,4 @@ projects on which i have working: 1. Student management system Application (Adva
                                   3. Gold price prediction and price pattern analysys (python, machine learning, regression, Tableau)                                  ......final stage of Development
                                   4. Java Chatbot (only used java, awt, and array + string handling based)                                                             ......ready_to_upload
                                   5. PdfGPT: Cognitive analysis of pdf (Backend: Python,RAG, Hugging Face Model, FastAPI, Machine Learning..., Frontend: HTML5, CSS)......inprogress
+#new projects are commming
